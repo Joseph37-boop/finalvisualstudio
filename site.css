@@ -1,0 +1,17 @@
+﻿body {
+
+}
+
+.content {
+    width: 50%;
+    margin: 0 auto;
+    background: lightgrey;
+    padding: 100px;
+    padding-top:10px;
+}
+
+.favorite{
+    font-weight: bold;
+    color: darkred;
+    font-size: 15px;
+}

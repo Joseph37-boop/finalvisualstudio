@@ -1,0 +1,1 @@
+﻿document.getElementById("myName").style.color = 'blue';
